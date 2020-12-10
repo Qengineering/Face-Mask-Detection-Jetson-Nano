@@ -42,7 +42,8 @@ RFB-320.param <br/>
 slim_320.bin <br/>
 slim_320.param <br/>
 ### Notes. 
-The directories in the Code::Blocks project file will probably need to be adapted to the naming convention you are using. <br/> <br/>
+The directories in the Code::Blocks project file will probably need to be adapted to the naming convention you are using. <br/>
+The camera input used is a simple OpenCV webcam. The GStreamer is not used in this example for symplicity reasons.<br/><br/>
 The RFB-320 model recognizes slightly more faces than slim_320 at the expense of a little bit of speed. It is up to you.<br/>
 Note that the compilation of the Paddle Lite framework in your application may take a while. <br/> <br/>
 See the Raspberry Pi video at https://youtu.be/LDPXgJv3wAk
