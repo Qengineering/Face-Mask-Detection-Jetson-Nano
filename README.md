@@ -41,8 +41,7 @@ RFB-320.bin <br/>
 RFB-320.param <br/>
 slim_320.bin <br/>
 slim_320.param <br/>
- <br/>
-### Note. 
+### Notes. 
 The directories in the Code::Blocks project file will probably need to be adapted to the naming convention you are using. <br/> <br/>
 The RFB-320 model recognizes slightly more faces than slim_320 at the expense of a little bit of speed. It is up to you.<br/>
 Note that the compilation of the Paddle Lite framework in your application may take a while. <br/> <br/>
