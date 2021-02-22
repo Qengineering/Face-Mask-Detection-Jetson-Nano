@@ -13,6 +13,8 @@ FPS = 1.0/(0.022 + 0.008 x #Faces) when overclocked to 2014 MHz. <br/><br/>
 Paper: https://arxiv.org/abs/1905.00641.pdf <br/>
 Size: 320x320 <br/><br/>
 Special made for a Jetson Nano see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) <br/>
+### New version 2.0.
+A new and superior version with only __TensorFlow Lite__ for a Jetson Nano see [GitHub](https://github.com/Qengineering/TensorFlow_Lite_Face_Mask_Jetson-Nano) <br/>
 ## Dependencies.
 To run the application, you have to:
 - The Paddle Lite framework installed. [Install Paddle](https://qengineering.eu/install-paddle-on-jetson-nano.html) <br/>
