@@ -16,7 +16,7 @@ Special made for a Jetson Nano see [Q-engineering deep learning examples](https:
 ### New version 2.0.
 A new and superior version with only __TensorFlow Lite__ for a Jetson Nano see [GitHub](https://github.com/Qengineering/TensorFlow_Lite_Face_Mask_Jetson-Nano) <br/>
 ## Dependencies.
-### April 4 2021: Adapted for ncnn version 20210322
+### April 4 2021: Adapted for ncnn version 20210322 or later
 To run the application, you have to:
 - The Paddle Lite framework installed. [Install Paddle](https://qengineering.eu/install-paddle-on-jetson-nano.html) <br/>
 - The Tencent ncnn framework installed. [Install ncnn](https://qengineering.eu/install-ncnn-on-jetson-nano.html) <br/>
